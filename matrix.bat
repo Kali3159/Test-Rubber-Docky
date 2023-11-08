@@ -1,6 +1,6 @@
 @echo off
 color a
-title Animation Matrix by Batchapp // Correction Shoot
+title Animation Matrix by Kali
 :m
 echo          %random% %random% %random% %random% %random% %random%
 echo      %random%   %random%%random% %random%    %random%   %random% %random%
